@@ -2,7 +2,7 @@
 - 👀 I’m interested in single-cell RNA, Network Biology, Immunotherapy, Autoimmune disease, Immune-related adverse effects
 - 🌱 I’m currently learning Python, Single cell pipeline, immunotherapy
 - 💞️ I’m looking to collaborate with people working on similar interests.
-- 📫 How to reach me Email psao@mdanderson.org
+- 📫 How to reach me Email prachi1627@gmail.com
 
 <!---
 prachi-sao/prachi-sao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
